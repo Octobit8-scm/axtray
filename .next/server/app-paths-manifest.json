@@ -1,0 +1,9 @@
+{
+  "/solutions/custom-ai/page": "app/solutions/custom-ai/page.js",
+  "/page": "app/page.js",
+  "/solutions/customer-service-ai/page": "app/solutions/customer-service-ai/page.js",
+  "/solutions/data-analysis/page": "app/solutions/data-analysis/page.js",
+  "/solutions/process-automation/page": "app/solutions/process-automation/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/about/page": "app/about/page.js"
+}
