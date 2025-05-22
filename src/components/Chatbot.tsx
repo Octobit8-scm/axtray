@@ -62,7 +62,7 @@ export default function Chatbot() {
       // End call
       try {
         if (callId) {
-          await endVoiceCall(callId);
+          await endVoiceCall();
           setCallId(null);
         }
         setIsCallActive(false);
@@ -73,7 +73,7 @@ export default function Chatbot() {
       // Start call
       try {
         const call = await startVoiceCall();
-        setCallId(call.id);
+        setCallId(call?.id ?? null);
         setIsCallActive(true);
       } catch (error) {
         console.error('Error starting call:', error);

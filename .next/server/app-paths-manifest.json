@@ -1,9 +1,12 @@
 {
+  "/api/chat/route": "app/api/chat/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/about/page": "app/about/page.js",
   "/solutions/custom-ai/page": "app/solutions/custom-ai/page.js",
   "/page": "app/page.js",
-  "/solutions/customer-service-ai/page": "app/solutions/customer-service-ai/page.js",
   "/solutions/data-analysis/page": "app/solutions/data-analysis/page.js",
-  "/solutions/process-automation/page": "app/solutions/process-automation/page.js",
-  "/contact/page": "app/contact/page.js",
-  "/about/page": "app/about/page.js"
+  "/solutions/customer-service-ai/page": "app/solutions/customer-service-ai/page.js",
+  "/solutions/page": "app/solutions/page.js",
+  "/solutions/process-automation/page": "app/solutions/process-automation/page.js"
 }

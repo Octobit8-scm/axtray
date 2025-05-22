@@ -1,0 +1,12 @@
+{
+  "/api/chat/route": "/api/chat",
+  "/_not-found/page": "/_not-found",
+  "/contact/page": "/contact",
+  "/about/page": "/about",
+  "/solutions/custom-ai/page": "/solutions/custom-ai",
+  "/page": "/",
+  "/solutions/data-analysis/page": "/solutions/data-analysis",
+  "/solutions/customer-service-ai/page": "/solutions/customer-service-ai",
+  "/solutions/page": "/solutions",
+  "/solutions/process-automation/page": "/solutions/process-automation"
+}
